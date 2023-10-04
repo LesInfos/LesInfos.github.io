@@ -1,3 +1,9 @@
 # LesInfos.github.io
-Website Based Creative Narrative Project
-Project taken from the WebDevSimplified's Youtube video project: JavaScript Text Adventure
+Current Projects:
+  Choose-your-own text adventure, originally built for VNST
+  Adaptive meet-up location finder for a friend group
+  Testing website for image matcher
+
+
+
+[Website Under Construction]
