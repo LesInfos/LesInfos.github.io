@@ -1,9 +1,10 @@
 # LesInfos.github.io
-Current Projects: </br>
-  &Tab Choose-your-own text adventure, originally built for VNST </br>
-  &Tab Adaptive meet-up location finder for a friend group </br>
-  &Tab Testing website for image matcher </br>
-
-
+Current Projects: <br>
+Choose-your-own text adventure, originally built for VNST <br>
+  &#9; Adaptive meet-up location finder for a friend group <br>
+  &#9; Testing website for image matcher <br>
+  &#9; VNST Class website draft  <br>
+  
+   <br>
 
 [Website Under Construction]
